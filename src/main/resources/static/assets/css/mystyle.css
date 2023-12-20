@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.subtitle
+div {
+	color: #948c81
+}
+
+.page-link {
+	color: #ffb03b;
+}
+
+.pagination .active {
+	background-color: #ffb03b;
+}
+
+.pagination a:hover {
+	color:#ed6c11;
+}
+
+#order p {
+	color: #948c81
+}
